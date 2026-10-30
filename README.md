@@ -16,22 +16,22 @@ To develop the Library Management System using Star UML.
 6.It must provide secure role-based access for users and librarians, ensuring data integrity and protecting sensitive user information. UML DIAGRAMS.
 # DIAGRAMS:
 # USER CASE DIAGRAMS
-<img width="1242" height="1017" alt="image" src="https://github.com/user-attachments/assets/22a097b8-04b9-452f-b27c-d50258898190" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3ca1c4da-4ca2-4084-a465-270f5d0a34df" />
 
 # CLASS DIAGRAMS
-<img width="1237" height="1017" alt="image" src="https://github.com/user-attachments/assets/0fb879ee-38a6-422e-bebd-d37dfa5be002" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d2ed4d22-1810-43af-a220-304657507d29" />
 
 # ACTIVITY DIAGRAMS
-<img width="1241" height="1013" alt="image" src="https://github.com/user-attachments/assets/02157554-8351-41a6-a404-cd9414facc2f" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/15655dfa-30cc-46ed-9f09-60243f91b212" />
 
 # SEQUENCE DIAGRAMS
-<img width="1245" height="1018" alt="image" src="https://github.com/user-attachments/assets/e0a74d8f-63ff-4a78-8a46-49a8b46268af" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a9f28577-a9b9-4642-ac69-939cc9bf43f1" />
 
 # COMMUNICATION DIAGRAMS
-<img width="1242" height="1021" alt="image" src="https://github.com/user-attachments/assets/62067472-2f75-4b8c-94a5-6acc7b86b326" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bd19fedb-f4ea-44c9-8d6b-90b1a887b5d9" />
 
 # PACKAGE DIAGRAMS
-<img width="1236" height="1020" alt="image" src="https://github.com/user-attachments/assets/d419eb59-0d1b-4e60-8f20-1788984ae8e9" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/3a5a50f8-0adc-4f39-bcb3-8d9f29958004" />
 
 
 # RESULT:
